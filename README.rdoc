@@ -1,3 +1,3 @@
-<h1>Twitter’s Bootstrap</h1>
+<tt>Twitter’s Bootstrap</tt>
 
-<p>Twitter’s Bootstrap ajuda a construir aplicações web bonitos rapidamente. Ele fornece uma variedade de CSS e JavaScript para fazer layouts e muito mais e ainda inclui suporte para web design responsivo. Como exemplo, se você visitar a sua página e alterar a largura da janela do navegador o layout da página vai mudar para melhor atender essa largura. Isso pode realmente melhorar a experiência de utilização de aplicações web em dispositivos móveis.</p>
+<tt>Twitter’s Bootstrap ajuda a construir aplicações web bonitos rapidamente. Ele fornece uma variedade de CSS e JavaScript para fazer layouts e muito mais e ainda inclui suporte para web design responsivo. Como exemplo, se você visitar a sua página e alterar a largura da janela do navegador o layout da página vai mudar para melhor atender essa largura. Isso pode realmente melhorar a experiência de utilização de aplicações web em dispositivos móveis.</tt>
